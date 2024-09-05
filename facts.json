@@ -1,0 +1,21 @@
+{"facts": 
+        [
+            {"tag":"Types",
+             "questions": ["A type of lightbulb?", "Lightbulb type?", 
+             "Please give me an example of a lightbulb variety?"],
+             "responses": ["Incandescent bulbs", "Halogen bulbs", "CFL bulbs", "LED bulbs"],
+             "context": [""]
+            },
+            {"tag":"Shapes",
+             "questions": ["Example of a light bulb shape?", "A typical shape of light bulbs?"],
+             "responses": ["Standard Household", "Reflector", "Mini Reflector", 
+             "Parabolic Aluminized Reflector", "Globe", "Tubular"],
+             "context": [""]
+            },
+            {"tag": "Bases",
+             "questions": ["Example of a lightbulb base?", "Lightbulb base?", "Base?", "Base of Lightbulb?"],
+             "responses": ["Standard Medium", "Candelabra", "Bi-pin", "GU10"],    
+             "context": [""]
+            }
+        ]
+}
